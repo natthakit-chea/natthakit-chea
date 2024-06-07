@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Health Data Science student at KMTT and PCCMS
 ---------------------------------------------
 
-I've been learning AI and Data analysis For 4 years. I start with python and R, and have really found a passion for AI engineer
+I've been learning AI and Data analysis For 4 years. I start with python and R, and have really found a passion for AI engineer. I'm doing internship at NSHO
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [natthakit.chea@kmutt.ac.th](mailto:natthakit.chea@kmutt.ac.th)
